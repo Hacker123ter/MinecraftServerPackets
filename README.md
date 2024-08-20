@@ -18,8 +18,7 @@
 ## 🚀 Установка:
 
 - 😧 Установите <a href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html" target="_blank">JDK 21</a>.
-- 🐈 Установите одну из двух версий программы, или <a href="url на скачивание файла" target="_blank">NameProgramm.jar</a> 
-или <a href="https://github.com/Hacker123ter/MinecraftServerPackets/raw/master/MinecraftServerExploit.jar" target="_blank">MinecraftServerExploit.exe</a>.
+- 🐈 Установите jar программу, <a href="https://github.com/Hacker123ter/MinecraftServerPackets/raw/master/MinecraftServerExploit.jar" target="_blank">MinecraftServerExploit.jar</a>.
 - 🪄 Запустите файл.
 - ⏲️ Заполните нужные значения.
 - 😸 Радуйтесь жизни!
